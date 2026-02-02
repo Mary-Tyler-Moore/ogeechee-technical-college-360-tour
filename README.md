@@ -6,66 +6,6 @@
 
 <br />
 
-## Motivation:  :running: :dash: :exclamation: :tiger2:
-
-#### Working with Quasar CLI has been a game changer for my development and deployment work flow. This README documents the deployment of a Quasar SSR build on DigitalOcean using PM2 and NGINX.
-
-
-<br />
-
-# Quasar Framework
-
-![Quasar Framework logo](https://cdn.quasar.dev/logo/svg/quasar-logo-full-inline.svg)
-
-> Build responsive Single Page Apps, **SSR Apps**, PWAs, Hybrid Mobile Apps and Electron Apps, all using the same codebase!, powered with Vue.
-
-<br />
-
-## :moneybag: Supporting Quasar
-Quasar Framework is an MIT-licensed open source project. Its ongoing development is made possible thanks to the support by these awesome [backers](https://github.com/rstoenescu/quasar-framework/blob/dev/backers.md).
-
-**Please read our manifest on [Why donations are important](https://quasar.dev/why-donate)**. If you'd like to become a donator, check out [Quasar Framework's Donator campaign](https://donate.quasar.dev).
-
-<br />
-
-## :mag_right: Useful Resources:
-
-## Chat Support
-
-Ask questions at the official community Discord server: [https://chat.quasar.dev](https://chat.quasar.dev)
-
-## Community Forum
-
-Ask questions at the official community forum: [https://forum.quasar.dev](https://forum.quasar.dev)
-
-## Stay in Touch
-
-For latest releases and announcements, follow on Twitter: [@quasarframework](https://twitter.com/quasarframework)
-
-## Join Quasar on Discord:
-
-###### [Quasar Framework Invitation](https://discordapp.com/invite/5TDhbDg)
-
-### Quasar on Github:
-
-###### [quasarframework/quasar](https://github.com/quasarframework/quasar)
-
-###### [Sponsor Quasar](https://github.com/sponsors/rstoenescu)
-
-###### [quasar-awesome](https://github.com/quasarframework/quasar-awesome)
-
-## Documentation
-
-Head on to the Quasar Framework official website: [https://quasar.dev](https://quasar.dev)
-
-###### [CLI Documentation](https://quasar.dev/start/quasar-cli)
-
-<br />
-
----
-
-<br />
-
 ## :calendar: Project History
 
 ## Performance Improvements
